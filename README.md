@@ -4,7 +4,7 @@ System Engineer | TCS | NSE : FO & CD - Trading Derivative | C, Linux
 👋 Hi, I'm Apurva Ramesh Surve, a System Engineer at TCS, working on-site at NSE (FO & CD - Trading Derivative). I am passionate about system programming and backend development. I enjoy working in C and Linux, and I'm currently expanding my skill set by learning Java.
 <br>
 <br>
-🔧 Technologies & Tools:
+🔧 Technologies & Tools
 <br>
 💻 Languages: C, Shell Scripting, Java (Learning)
 <br>
