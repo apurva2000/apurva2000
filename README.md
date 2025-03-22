@@ -3,8 +3,9 @@
 <br>
 👋 Hi, I'm Apurva Ramesh Surve, a System Engineer at TCS, working on-site at NSE (FO & CD - Trading Derivative). I am passionate about system programming and backend development. I enjoy working in C and Linux, and I'm currently expanding my skill set by learning Java.
 <br>
+<hr>
 <br>
-<h1>🔧 Technologies & Tools</h1>
+<h2>🔧 Technologies & Tools</h2>
 <br>
 💻 Languages: C, Shell Scripting, Java (Learning)
 <br>
@@ -12,12 +13,14 @@
 <br>
 📂 OS: Linux, Windows
 <br>
+<hr>
 <br>
-<h1>🎯 Currently Learning</h1>
+<h2>🎯 Currently Learning</h2>
 <br>
 📌 Java
 <br>
+<hr>
 <br>
-<h1>📫 Let's Connect</h1>
+<h2>📫 Let's Connect</h2>
 <br>
 https://www.linkedin.com/in/apurva-surve-b44503219/
