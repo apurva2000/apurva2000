@@ -1,5 +1,5 @@
 <h1>🚀 Apurva Ramesh Surve</h1>
-<h2>System Engineer | TCS | C, Linux</h2>
+<h2>System Engineer | TCS | C Developer | Linux | Low-Latency trading systems | F&O and Currency Derivatives</h2>
 <p>👋 Hi, I'm Apurva Ramesh Surve, a System Engineer at TCS. I am passionate about system programming and backend development. I enjoy working in C and Linux, and I'm currently expanding my skill set by learning Java.</p>
 <hr>
 <h2>🔧 Technologies & Tools</h2>
