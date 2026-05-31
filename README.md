@@ -3,7 +3,7 @@
 <p>👋 Hi, I'm Apurva Ramesh Surve, a System Engineer at TCS. I am passionate about system programming and backend development. I enjoy working in C and Linux, and I'm currently expanding my skill set by learning Java.</p>
 <hr>
 <h2>🔧 Technologies & Tools</h2>
-<p>💻 Languages: C, Shell Scripting, Java (Learning)
+<p>💻 Languages: C, Shell Scripting, C++, Java (Learning)
 <br>
 🛠️ DevOps & Tools: Jenkins, Git, GDB, Bash
 <br>
